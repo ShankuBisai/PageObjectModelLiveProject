@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Page Object Model" duration-ms="29749" started-at="2020-09-08T21:03:24Z" finished-at="2020-09-08T21:03:54Z">
+    <groups>
+    </groups>
+    <test name="Login Test" duration-ms="2144" started-at="2020-09-08T21:03:24Z" finished-at="2020-09-08T21:03:26Z">
+      <class name="com.shanku.testcases.LoginTest">
+        <test-method status="PASS" signature="loginTest()[pri:0, instance:com.shanku.testcases.LoginTest@32811494]" name="loginTest" duration-ms="1591" started-at="2020-09-08T21:03:24Z" finished-at="2020-09-08T21:03:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- loginTest -->
+      </class> <!-- com.shanku.testcases.LoginTest -->
+    </test> <!-- Login Test -->
+    <test name="Create Account Test" duration-ms="27587" started-at="2020-09-08T21:03:26Z" finished-at="2020-09-08T21:03:54Z">
+      <class name="com.shanku.testcases.CreateAccountTest">
+        <test-method status="PASS" signature="createAccountTest()[pri:0, instance:com.shanku.testcases.CreateAccountTest@4bc28c33]" name="createAccountTest" duration-ms="27527" started-at="2020-09-08T21:03:26Z" finished-at="2020-09-08T21:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- createAccountTest -->
+        <test-method status="PASS" signature="tearDown()[pri:0, instance:com.shanku.testcases.CreateAccountTest@4bc28c33]" name="tearDown" is-config="true" duration-ms="688" started-at="2020-09-08T21:03:54Z" finished-at="2020-09-08T21:03:54Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- com.shanku.testcases.CreateAccountTest -->
+    </test> <!-- Create Account Test -->
+  </suite> <!-- Page Object Model -->
+</testng-results>
